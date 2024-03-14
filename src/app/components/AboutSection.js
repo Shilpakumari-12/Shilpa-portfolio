@@ -56,7 +56,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a versatile web developer and UI/UX designer committed to creating seamless digital experiences. With a solid foundation in JavaScript, React, Node.js, HTML, CSS, and MySQL, I bring your ideas to life with intuitive interfaces and robust functionality. Whether it's optimizing user journeys or designing captivating visuals, I thrive on blending code and creativity to craft engaging solutions. Let's collaborate and elevate your digital presence!
+          I am a versatile web developer and UI/UX designer committed to creating seamless digital experiences. With a solid foundation in JavaScript, React, Node.js, HTML, CSS, and MySQL, I bring your ideas to life with intuitive interfaces and robust functionality. Whether it&apos;s optimizing user journeys or designing captivating visuals, I thrive on blending code and creativity to craft engaging solutions. Let&apos;s collaborate and elevate your digital presence!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
