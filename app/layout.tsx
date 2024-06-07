@@ -12,8 +12,8 @@ import { Analytics } from '@vercel/analytics/react';
 
 
 export const metadata = {
-  title: 'Vijayaraj Portfolio',
-  description: 'Vijayaraj Anbalagan , A Computer Science Enthusiastic',
+  title: 'Shilpa kumari',
+  description: 'Shilpa kumari, A INfirmation Technology Enthusiastic',
 }
 
 export default function RootLayout({
